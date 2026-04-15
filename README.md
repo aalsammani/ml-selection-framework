@@ -9,7 +9,7 @@
 **Companion repository to:**
 > *A Reproducible Framework for Machine Learning Algorithm Selection: Theory, Algorithms, and Practice*
 > 
-> Abdallah Alsammani — Delaware State University
+> Abdallah Alsammani 
 
 Six comprehensive Jupyter notebooks covering every major machine learning algorithm with rigorous mathematical foundations, working code, visualizations, and real-world case studies. Every notebook runs end-to-end with no external file dependencies.
 
