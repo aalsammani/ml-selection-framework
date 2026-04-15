@@ -1,0 +1,21 @@
+# ML Algorithm Selection Framework — Extended Dependencies
+# Optional packages for Notebooks 3, 4, and 6
+# All notebooks include graceful fallbacks if these are not installed
+# Install: pip install -r requirements_extended.txt
+
+# Notebook 3: Probabilistic Graphical Models
+hmmlearn>=0.3.0        # Hidden Markov Models
+
+# Notebook 4: Time-Series Forecasting
+statsmodels>=0.13.0    # ARIMA, seasonal decomposition, ADF test
+prophet>=1.1.0         # Facebook / Meta Prophet forecasting
+
+# Notebook 6: Advanced Methods
+optuna>=3.0.0          # Bayesian hyperparameter optimization (TPE)
+
+# Notebook 2: Unsupervised Learning (UMAP section)
+umap-learn>=0.5.0      # Uniform Manifold Approximation and Projection
+
+# Notebook 6: GNN demonstration (optional — numpy fallback included)
+# torch>=2.0.0         # Uncomment to install PyTorch
+# torch-geometric      # Uncomment for full GNN support (see https://pytorch-geometric.readthedocs.io)
