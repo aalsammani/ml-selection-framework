@@ -5,9 +5,9 @@
 
 **Companion repository for the article**
 
-> A. Alsammani, *Machine Learning Algorithm Selection: A Unified Framework from Classical Methods to Foundation Models*, submitted to the *Journal of Intelligent & Fuzzy Systems*, 2026.
+> A. Alsammani, *Machine Learning Algorithm Selection: A Unified Framework from Classical Methods to Foundation Models*, *Journal of Intelligent & Fuzzy Systems*, accepted for publication, 2026.
 
-The repository contains six Jupyter notebooks that illustrate the methods, selection guidelines, and evaluation protocol described in the article. They are educational examples: the article reports no experimental results, and the numbers produced by the notebooks are illustrations, not evidence for the article's recommendations.
+The repository contains six Jupyter notebooks that illustrate the methods, selection guidelines, and evaluation protocol described in the article. They are educational examples: the article reports no experimental results, and the notebooks' outputs are illustrations, not evidence for the article's recommendations.
 
 ---
 
@@ -105,7 +105,11 @@ Version 1.0.0 of this repository is archived on Zenodo: <https://doi.org/10.5281
   note      = {Companion repository for ``Machine Learning Algorithm Selection: A Unified Framework from Classical Methods to Foundation Models''}
 }
 ```
+**Associated journal article**
 
+Alsammani, A. (2026). *Machine Learning Algorithm Selection:
+A Unified Framework from Classical Methods to Foundation Models*.
+*Journal of Intelligent & Fuzzy Systems*. Accepted for publication.
 ---
 
 ## Contributing and license
